@@ -14,6 +14,7 @@ public class FIBONACI {
                 if(i==salir-1){
                     System.out.println(c);
                     System.out.println("Soy Luis");
+                    System.out.println("Soy BOrja");
                     
                 }
                 else{
