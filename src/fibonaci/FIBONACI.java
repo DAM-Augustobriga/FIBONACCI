@@ -1,4 +1,4 @@
-//package fibonaci;
+package fibonaci;
 import java.util.Scanner;
 public class FIBONACI {
     public static void main(String[] args) {
